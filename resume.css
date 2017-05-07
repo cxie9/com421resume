@@ -1,0 +1,112 @@
+body {
+	line-height: 1;
+    font-family: 'Muli', sans-serif;
+    padding: 5em;
+    background-color: aliceblue;
+}
+
+h1 {
+    font-size: 3em;
+    color:darkslateblue;
+    margin-top: 0.8em;
+}
+
+h2 {
+    font-size: 0.9em;
+    color:darkgray;
+    line-height: 1.5em;
+}
+
+h3 {
+    font-size: 1.5em;
+    color:darkslateblue;
+    padding: 0.5em;
+    margin-top: 1.3em;
+}
+
+h4 {
+    color: black;
+    font-size: 1em;
+    margin-left: 3em;
+    margin-top: 1em;
+}
+
+
+p {
+    color: darkgray;
+    line-height: 1.5em;
+    padding: 0.5em;
+    margin-left: 3em;
+}
+
+ul {
+    color: darkgray;
+    line-height: 1.5em;
+    padding: 0.5em;
+    margin-left: 3em;
+
+}
+
+nav {
+    display: flex;
+    margin-left: 1em;
+}
+
+iframe{
+    width: 100%;
+    height: 40em;
+    padding: 2em;
+}
+
+#heading {
+    border-bottom: 0.1em solid darkslateblue;
+    border-bottom-right-radius: 1em;
+    text-align: right;
+}
+
+#back {
+    border-radius: 5%;
+    color: darkslateblue;
+    padding: 0.8em;
+    background-color: antiquewhite;
+    border: 0.1vw solid;
+    
+}
+
+.ptab {
+    background-color: antiquewhite;
+    border-radius: 5%;
+    border-top: 0.1vw solid;
+    border-left: 0.1vw solid;
+    border-right: 0.1vw solid;
+    padding: 0.8em;
+    color: darkslateblue;
+    
+}
+
+
+.position {
+    color: black;
+    font-style: italic;
+    
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    padding: 1vw;
+    background-color:antiquewhite;
+    border-radius: 3vw solid;
+    margin-top: 1vw;
+    
+}
+
+.projects{
+    font-size: 1.5em;
+    padding: 1em;
+}
+
+.describe {
+    padding: 1em;
+}
